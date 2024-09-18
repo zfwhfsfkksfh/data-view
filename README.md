@@ -1,4 +1,5 @@
 # data-view
+[观看视频](./assets/videos/video.mp4)
 
 ## Project setup
 ```
